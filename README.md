@@ -4,8 +4,7 @@ A React app for tracking what you're reading, building a to-read list, rating
 finished books, and watching your progress toward an annual reading goal —
 styled like a library card catalog instead of another generic dashboard.
 
-**[Live demo →](#)** _(add your deployed link here)_
-
+**[Live demo →](https://book-tracker-nytfary.vercel.app/)**\
 ![screenshot placeholder](./screenshot.png)
 
 ## Features
